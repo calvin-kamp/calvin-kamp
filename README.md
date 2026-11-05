@@ -26,8 +26,8 @@ I started with a three-year apprenticeship as a media designer at an agency in D
 | Project | Description | Tech |
 | --- | --- | --- |
 | [Fable](https://github.com/calvin-kamp/fable) | Full-stack Kanban board, currently in development. | Angular, TypeScript,  SCSS, Spring Boot |
-| [Nibble](https://www.nibble-tracking.de) | Nutrition tracking and recipe app: share recipes, track macros and weight, log meals with food data from OpenFoodFacts. | Vue, TypeScript, Tailwind, Django REST Framework, PostgreSQL |
-| [Coderr](https://coderr.calvin-kamp.de/) | REST API for a freelancer marketplace. | Django REST Framework |
+| [Nibble (live)](https://www.nibble-tracking.de) | Nutrition tracking and recipe app: share recipes, track macros and weight, log meals with food data from OpenFoodFacts. | Vue, TypeScript, Tailwind, Django REST Framework, PostgreSQL |
+| [Coderr (live)](https://coderr.calvin-kamp.de/) | REST API for a freelancer marketplace. | Django REST Framework |
 | [Videoflix](https://github.com/calvin-kamp/videoflix-backend) | Backend for a video streaming platform. | Django REST Framework |
 
 ## Get in touch
