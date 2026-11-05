@@ -32,5 +32,5 @@ I started with a three-year apprenticeship as a media designer at an agency in D
 
 ## Get in touch
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-calvin-kamp.de-2ea44f?style=for-the-badge)](https://www.calvin-kamp.de)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-calvin--kamp.de-2ea44f?style=for-the-badge)](https://www.calvin-kamp.de)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Calvin%20Kamp-0a66c2?style=for-the-badge)]([https://www.linkedin.com/in/USERNAME](https://www.linkedin.com/in/calvin-kamp))
